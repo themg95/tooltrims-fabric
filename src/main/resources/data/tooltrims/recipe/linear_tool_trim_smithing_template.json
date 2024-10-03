@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#T#",
+    "#I#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "tooltrims:linear_tool_trim_smithing_template"
+    },
+    "I": {
+      "item": "minecraft:terracotta"
+    }
+  },
+  "result": {
+    "id": "tooltrims:linear_tool_trim_smithing_template",
+    "count": 2
+  }
+}

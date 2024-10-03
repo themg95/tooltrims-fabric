@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.mg95.tooltrims.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SmithingTrimRecipeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

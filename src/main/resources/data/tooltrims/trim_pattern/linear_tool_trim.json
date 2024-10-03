@@ -1,0 +1,7 @@
+{
+  "asset_id": "tooltrims:linear_tool_trim",
+  "description": {
+    "translate": "tool_trim_pattern.tooltrims.linear"
+  },
+  "template_item": "tooltrims:linear_tool_trim_smithing_template"
+}
